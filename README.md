@@ -55,8 +55,11 @@ Bibliotecas usadas (padrão do Python, não precisa instalar):
 
 ## ▶️ Como usar
 
-1. Clone este repositório ou baixe o arquivo `main.py`.
-2. Execute com:
+1. Clone este repositório oiu baixe o arquivo `main.py`.
+   ```bash
+   git clone
+   
+3. Execute com:
 
 ```bash
 python main.py
