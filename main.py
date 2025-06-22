@@ -6,7 +6,7 @@ from tkinter import filedialog, messagebox
 
 # Mapeamento de extensões
 EXTENSOES = {
-    "imagens": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+    "imagens": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg"],
     "documentos": [".pdf", ".docx", ".txt", ".xls", ".xlsx", ".pptx"],
     "videos": [".mp4", ".mov", ".avi", ".mkv"],
     "audios": [".mp3", ".wav", ".aac", ".ogg"],
