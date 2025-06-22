@@ -57,7 +57,7 @@ Bibliotecas usadas (padrão do Python, não precisa instalar):
 
 1. Clone este repositório oiu baixe o arquivo `main.py`.
    ```bash
-   git clone
+   git clone https://github.com/a14481-oficina/Organizador-de-Arquivos
    
 3. Execute com:
 
